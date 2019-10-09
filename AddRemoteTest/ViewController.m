@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    NSLog(@"https://github.com/JTWang4778/AddRemoteTest.git");
 }
 
 
