@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
   
   spec.name         = "AddRemoteTest"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "AddRemoteTest"
 
   spec.homepage     = "https://github.com/JTWang4778/AddRemoteTest"
