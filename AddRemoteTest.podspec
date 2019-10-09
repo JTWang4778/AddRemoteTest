@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
   
   spec.name         = "AddRemoteTest"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "AddRemoteTest"
 
   spec.homepage     = "https://github.com/JTWang4778/AddRemoteTest"
@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
 
   spec.platform     = :ios
-  spec.ios.deployment_target = "9.0"
+  spec.ios.deployment_target = "10.3.1"
 
   
   spec.source_files  = "AddRemoteTest/Class/*.{h,m}"
